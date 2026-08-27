@@ -1,0 +1,21 @@
+{
+  "title": "The Engineer's Apprentice",
+  "subtitle": "A Novel",
+  "genre": "Science fiction",
+  "author": "Walusimbi Leon",
+  "description": "On a terraformed moon, a teenage apprentice to the great Engineer discovers the machines are dreaming \u2014 and the dreams are warnings.",
+  "style": "Clear, wonder-filled third-person YA sci-fi. Hard-ish tech softened by awe. Fast but thoughtful.",
+  "characters": "Sefu \u2014 15, apprentice, curious, careful; the Engineer \u2014 older, cryptic, kind.",
+  "setting": "A terraformed moon colony, far future.",
+  "notes": "Open in the machine hall where Sefu notices a turbine humming a tune it shouldn't know. Wonder first, mystery second.",
+  "chapterTitle": "Chapter",
+  "mdFiles": [
+    "v2.0/book.md"
+  ],
+  "htmlFiles": [
+    "v2.0/book.html"
+  ],
+  "indexInject": null,
+  "mdHeadingLevel": 3,
+  "targetWords": 2000
+}
