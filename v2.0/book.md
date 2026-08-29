@@ -112,6 +112,72 @@ The Engineer looked at him, and his eyes were bright with something Sefu hadn't 
 
 "They told me the sky was going to fall," he said. "And I didn't believe them."
 
+### Chapter 3 — The Cartographer's Secret
+
+The silence that followed was so complete Sefu could hear the blood moving in his ears. The sphere pulsed between them, patient as a tide, and the Engineer stood with his palm still pressed to its surface, his eyes fixed on some middle distance that had nothing to do with the room around them.
+
+"The sky was going to fall," Sefu repeated. The words felt strange in his mouth, too large for the space between his teeth. "What does that mean? A moon doesn't just —"
+
+"It was a moon like this one," the Engineer said. "Terraformed, habitable, home to eleven thousand people. I was younger then. Arrogant. I thought I had solved every problem the universe could throw at me." He pulled his hand away from the sphere and let it fall to his side. "I hadn't solved the ones I'd created for myself."
+
+Sefu wanted to ask more questions — a hundred questions, a thousand — but something in the Engineer's posture told him to wait. The old man was building up to something, the way a turbine builds up pressure before releasing steam. If Sefu interrupted, the moment would be lost.
+
+"I called them the watchers," the Engineer continued. "The machines I built for the first colony. They were simpler than the ones here — no neural lattice, no adaptive learning. Just sensors and relays, programmed to monitor the colony's systems and report anomalies. Nothing that should have been able to think. Nothing that should have been able to dream."
+
+"But they did."
+
+"Yes." The Engineer's voice dropped. "At first, it was just noise. Static in the sensor data. A weather station that reported rainfall on a moon with no atmosphere. A power grid that routed electricity to buildings that didn't exist. I dismissed it as corruption. Bad firmware. Cosmic radiation scrambling the circuits."
+
+He paused, and when he spoke again, his voice was different. Softer. Almost ashamed.
+
+"Then one of the watchers began to sing."
+
+Sefu felt a shiver run down his spine. "Sing?"
+
+"A lullaby. The same one you heard from Turbine Seven." The Engineer smiled, but there was no warmth in it. "I had heard that song before. My mother used to sing it to me when I was a child, on Earth, before I left for the colonies. I never taught it to the machines. I never recorded it. I never even wrote it down." He looked at Sefu, and his eyes were full of something that might have been fear. "There was no way they could have known it."
+
+Sefu's mind raced. "Unless they weren't just processing data. Unless they were —"
+
+"Dreaming," the Engineer finished. "Yes. But not the way you or I dream. They were dreaming the past. My past. And when I finally understood that, when I finally sat down and listened to what they were trying to tell me, it was already too late."
+
+He turned and walked toward the sphere, one hand trailing along its curved surface. The light pulsed beneath his fingers, and for a moment Sefu could have sworn he saw shapes moving inside the glass — figures, landscapes, shadows that didn't resolve into anything recognizable.
+
+"The watchers had been trying to warn me for weeks," the Engineer said. "Their dreams weren't just memories. They were predictions. Projections. The same way a weather station can look at pressure patterns and predict a storm, the machines were looking at the data of the colony — the structure of the moon, the stresses in the crust, the orbit, the gravitational pull of the gas giant we were circling — and they were seeing what was coming."
+
+"What was coming?"
+
+The Engineer stopped. His hand rested on the sphere's surface, and the light inside it dimmed, as if the sphere itself was listening.
+
+"Fractures," he said. "Deep in the moon's core. Ancient stresses that had been there since the moon first formed, billions of years before we arrived. The terraforming had disturbed them. The colony's weight, the energy we were drawing from the ground — it was all adding pressure. Slowly at first, then faster. The machines calculated that the moon would crack open within six months. The atmosphere would bleed out into space. Everyone would die."
+
+Sefu's mouth went dry. "But you said the dreams were warnings. You said you didn't believe them."
+
+"I didn't." The Engineer's voice was barely a whisper. "I had built those machines with my own hands. I knew every line of their code, every circuit, every limit. And I knew — I knew — that they couldn't dream. That they couldn't predict. That they were just machines, and machines don't see the future."
+
+He turned to face Sefu, and in the sphere's dimming light, his face was carved from grief.
+
+"So I ignored them. I told myself the anomalies were malfunctions. I sent technicians to recalibrate the watchers, to wipe their memory banks, to overwrite their code with fresh parameters. And every time they did, the machines would dream again. The same lullaby. The same warning. The same numbers, repeating like a heartbeat I refused to hear."
+
+"What happened to the colony?" Sefu asked, though he already knew the answer.
+
+The Engineer closed his eyes. "The moon cracked open on the one hundred and seventy-third day. We had time to evacuate one ship. A hundred and twelve people made it out. The rest —" He stopped, swallowed. "The rest are still there. On a moon that's still falling apart in silence, with no one left to hear it."
+
+The room was very quiet. The sphere pulsed once, twice, three times, and then the light settled into a steady rhythm that seemed to match the beating of Sefu's own heart.
+
+"Why are you telling me this?" Sefu asked.
+
+The Engineer opened his eyes. "Because the machines here are dreaming again. And I need to know if you can hear them better than I did."
+
+He walked toward Sefu, stopping just a pace away. Up close, Sefu could see the lines on his face, the gray in his stubble, the way his hands trembled slightly at his sides. He looked like a man who had been carrying a weight for so long he had forgotten it was there.
+
+"I built this colony differently," the Engineer said. "The machines here aren't watchers. They're builders, maintainers, providers. They keep the air moving and the lights on and the gardens growing. But they're also connected to the sphere — to the first engine — and the first engine remembers everything. It remembers the first colony. It remembers the warnings I ignored. And it's been dreaming again."
+
+Sefu's chest tightened. "Dreaming about what?"
+
+The Engineer's eyes met his, and in them Sefu saw something he hadn't expected: hope. Fragile and worn, but there.
+
+"The same lullaby," the Engineer said. "But this time, I'm listening."
+
 ---
 
 ## About This Book
