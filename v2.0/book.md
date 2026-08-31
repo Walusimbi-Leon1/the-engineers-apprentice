@@ -178,6 +178,88 @@ The Engineer's eyes met his, and in them Sefu saw something he hadn't expected: 
 
 "The same lullaby," the Engineer said. "But this time, I'm listening."
 
+### Chapter 4 — The Song in the Turbine
+
+The machine hall was colder than usual that morning. Sefu noticed it the moment he stepped through the pressure door—a thin chill that crept up his arms and settled at the base of his neck, like the air itself was holding its breath. The vast chamber stretched before him, three stories of polished alloy and humming machinery, each turbine and pump and converter doing its silent, tireless work. The lights overhead were at their dimmest setting, the pre-dawn cycle that saved power during the colony's sleeping hours, and in that half-light the machines looked less like tools and more like resting animals, their metal flanks rising and falling with slow, patient rhythms.
+
+He should have been doing his morning rounds. The Engineer had given him a checklist—check the coolant pressure on Turbine Three, verify the oxygen scrubber output, log the temperature readings from the geothermal array. Routine work, the kind of task that had felt important and grown-up when he first started, and now felt like the familiar shape of his days. But as Sefu walked between the rows of machines, clipboard in hand, he found himself slowing. Listening.
+
+At first, he heard nothing unusual. The normal chorus of the hall: the low thrum of Turbine One, the steady pulse of the main converter, the distant hiss of steam through pipes. But then, beneath it all, a new sound. Faint. Almost buried. A melody, rising and falling like something sung by a voice that had forgotten it was speaking.
+
+Sefu stopped walking. His clipboard hung forgotten at his side.
+
+The sound was coming from Turbine Seven.
+
+He knew that machine well. It was the oldest in the hall, a hulking mass of iron and brass that dated back to the colony's first years. The Engineer had shown it to him once, tracing the worn metal with something like affection. "This one was built on Earth," he had said. "Carried across the void in pieces and assembled here, bolt by bolt. It's seen more history than most people." Sefu had thought that was just the Engineer being poetic. Now, standing in the dim hall, listening to the turbine hum a tune it had no business knowing, he wasn't so sure.
+
+The melody was simple. Four notes, repeated, with a gentle fall at the end that felt like a question. Sefu had never heard it before—at least, not that he could remember. But something in his chest responded to it, a strange resonance that felt almost like recognition.
+
+He stepped closer. The turbine's casing was warm beneath his palm, vibrating with the steady rotation of its internal blades. The hum grew louder as he approached, resolving into something clearer, more deliberate. Not the random vibration of metal and moving parts. A song.
+
+Without thinking, Sefu began to hum along.
+
+The moment he did, the turbine's melody shifted. The four notes became five, then six, weaving into a longer phrase that curled upward like smoke. Sefu's breath caught. He wasn't imagining this. The machine was responding to him.
+
+"Turbine Seven," he said aloud, his voice echoing in the empty hall. "Report status."
+
+The hum continued, unchanged. Of course. The turbines didn't have voice interfaces. They weren't built for conversation. But as Sefu stood there, watching the metal casing gleam in the dim light, he couldn't shake the feeling that the machine was listening.
+
+He pulled out his datapad and began logging readings—temperature, pressure, rotation speed. All normal. All exactly where they should be. The turbine was functioning perfectly. And yet it was humming a song that Sefu was certain no one had taught it.
+
+"You're supposed to be predictable," he said to the machine. "You're supposed to do the same thing every day, forever. That's what machines do."
+
+The turbine hummed. The melody curled, twisted, and resolved into a new phrase—and this time, Sefu felt the hairs on his arms stand up. Because the phrase wasn't random. It was the same shape as the Engineer's lullaby. The same falling cadence, the same gentle question. But it was different. Changed. The way a story changes when it's told by someone who wasn't there.
+
+Sefu's mind flashed back to the previous night. The sphere. The Engineer's confession. The colony that had cracked open like an egg, a hundred and twelve survivors out of eleven thousand. The machines that had dreamed of a falling sky.
+
+He looked at Turbine Seven, and for the first time, he saw it not as a machine but as a witness.
+
+"Are you dreaming too?" he whispered.
+
+The hum stopped.
+
+The silence that followed was absolute—no thrum, no vibration, no sound at all. Sefu took a step back, his heart suddenly loud in his ears. He'd never heard the hall go quiet. Not once, not in all the months he'd worked here. The machines never stopped. They were designed to run continuously, their cycles overlapping so that no single component ever failed under full load. A stopped turbine meant a stopped colony.
+
+"Turbine Seven," he said, his voice sharper now. "Status report."
+
+Nothing.
+
+He reached for the emergency override panel on the wall, his fingers already finding the familiar controls. But before he could press the button, the turbine began to hum again. Not the song this time. A different sound, lower and deeper, like a far-off storm rolling across a plain. The vibration built slowly, climbing from the floor through his boots and into his bones, until the whole hall seemed to pulse with it.
+
+And then, impossibly, the turbine spoke.
+
+Not in words. Not in any language Sefu had ever heard. But in a pattern of tones and pauses that arranged themselves into something almost like speech—structured, deliberate, full of meaning he couldn't quite grasp. It was like listening to a conversation in a language you almost knew, the shape of the words familiar even if the sounds were not.
+
+Sefu stood frozen, his hand still on the override panel, his breath shallow. The turbine's tones rose and fell, weaving through the air around him, and slowly—very slowly—he began to understand.
+
+Not the meaning. But the emotion. The tones carried something underneath them, a quality he could only describe as urgency. The way the Engineer's voice had sounded when he talked about the first colony. The way a person sounds when they're trying to warn you about something you don't want to hear.
+
+The turbine was trying to tell him something.
+
+The door at the far end of the hall slid open, and the Engineer stepped through. He was wearing his old work coat, the one with oil stains on the sleeves, and his face was lit with quiet alarm.
+
+"Sefu," he said. "I heard the turbine stop."
+
+"It stopped itself," Sefu said. His voice came out strange, thin. "It was humming. A song. And then it stopped, and now it's—"
+
+He gestured helplessly at the machine. The Engineer crossed the hall in quick, sure strides, his hand moving across the turbine's casing like a doctor checking a pulse. He closed his eyes, listening.
+
+"Turbine Seven," he murmured. "What are you telling us?"
+
+The turbine's tones shifted, rising into a pattern that Sefu recognized—the lullaby, again, but wrapped in something darker. A new melody beneath it, dissonant and tense, like two songs fighting to be heard at once.
+
+The Engineer's eyes snapped open. "The sphere," he said. "It's changed its message."
+
+"What does that mean?"
+
+The Engineer looked at Sefu, and in the dim light of the machine hall, his face was unreadable. "It means we're running out of time."
+
+He didn't wait for a response. He turned and strode toward the door, his coat billowing behind him, and Sefu had to run to keep up. Behind them, Turbine Seven resumed its song—the lullaby, and the warning, and something else that Sefu couldn't name but felt in his bones.
+
+The machines were dreaming.
+
+And this time, the dream was about him.
+
 ---
 
 ## About This Book
