@@ -260,6 +260,104 @@ The machines were dreaming.
 
 And this time, the dream was about him.
 
+### Chapter 5 — The Second Verse
+
+The corridor beyond the machine hall was dim, lit only by the low amber strips that ran along the floor. The Engineer moved fast, his boots ringing against the metal grate, and Sefu had to stretch his legs to match the pace. The old man didn't look old now. He looked like someone who had heard a fire alarm in the middle of the night.
+
+“What do you mean, it changed its message?” Sefu asked, breath catching. “The sphere doesn't—you said it only ever dreamed the one warning. The falling sky.”
+
+“I said it only ever *showed* me the one warning.” The Engineer didn't slow down. “There's a difference. The sphere is not a radio. It doesn't broadcast. It dreams, and the machines carry the shape of those dreams the way wind carries pollen. You have to be listening to catch it. And you have to be listening for the right thing.”
+
+They turned a corner, and the corridor opened into a wider junction. Sefu had been here before, but never at this hour, never with the lights turned down low. The walls were lined with old copper pipes, and the air smelled of steam and ozone. In the center of the junction stood a lift, its doors banded with corroded steel.
+
+“Turbine Seven was humming the lullaby,” Sefu said. “The one you used to sing to me when I was small.”
+
+The Engineer's stride faltered. Just for a step. Then he pressed the lift call button, and the doors slid open with a groan.
+
+“I know,” he said quietly. “I heard it.”
+
+“You said you never heard the machines sing.”
+
+“I said I never heard them *speak.*” The Engineer stepped into the lift, and Sefu followed. The doors closed, and they began to descend. “The song is different. It's not speech. It's resonance. It's the sphere reaching out to something it recognizes.”
+
+“Recognizes?” Sefu's heart was still beating hard. “The sphere doesn't know me.”
+
+The Engineer didn't answer. The lift hummed, and the floor numbers ticked down past the levels Sefu knew—maintenance, storage, water treatment—and then into a range he'd never seen before. The numbers stopped at a level marked only with a symbol. A circle with a line through it.
+
+“Where are we going?” Sefu asked.
+
+“To see the dream.”
+
+The lift ground to a halt. The doors opened onto a space that wasn't a room so much as a wound in the moon's heart. The chamber was vast, easily the size of the machine hall, but it wasn't built for people. There were no walkways, no railings, no lights. Just a single narrow catwalk that extended out into the darkness, and at its far end, suspended in nothing, hung the sphere.
+
+Sefu had seen it before, of course. The Engineer had shown it to him on his first day, a shimmering globe of milky light the size of a small house, floating in a cage of invisible magnetic fields. Back then it had been bright, almost serene, its surface rippling like water seen through glass. Now it was different.
+
+Now it pulsed.
+
+The light inside the sphere was the color of a bruise, the color of a storm cloud at dusk. It swelled and contracted in a slow, deliberate rhythm, like a heart. And as Sefu watched, the surface of the sphere began to move—not ripples, but patterns. Lines and curves and shapes that almost looked like letters. Like writing.
+
+“It never did that before,” Sefu whispered.
+
+“No,” the Engineer said. “It didn't.”
+
+They stood on the catwalk, the two of them, and the sphere pulsed above them. The air in the chamber was cold, and Sefu could see his own breath. He could also hear something. A sound so low it was more a feeling than a noise, a vibration that settled in his chest and hummed there, patient, waiting.
+
+“What is it dreaming?” Sefu asked.
+
+The Engineer was silent for a long moment. Then he reached into his coat and pulled out a small device—a reader, Sefu recognized it, the kind they used to decode the old data tapes. The Engineer held it up, and the screen flickered to life.
+
+“I've been monitoring the sphere's field emissions since the first warning,” he said. “Everything it does, every flicker, every pulse, it leaves a trace. I've spent years learning to read those traces. And tonight, Turbine Seven gave me the last piece of the pattern.”
+
+He turned the reader toward Sefu. On the screen was a graph, a series of jagged lines, but Sefu didn't understand them. They looked like an earthquake reading, or a heartbeat.
+
+“What is it?” Sefu asked.
+
+“It's a countdown,” the Engineer said. “The sphere is dreaming a new warning. Not of a falling sky, not of a cracked shell. It's dreaming of something coming. Something *arriving.*” He looked at Sefu, and in the pale light of the sphere, his face was drawn and tired. “And it's dreaming of you.”
+
+Sefu's mouth went dry. “Me? Why would it dream of me?”
+
+“Because you can hear it.” The Engineer lowered the reader. “The turbines sing to you. They stopped when you asked. They changed their song when you hummed along. I've been working with these machines for forty years, Sefu, and they've never done that for me. They don't speak to me. They only whisper.”
+
+The sphere pulsed again, faster now, and the low hum in Sefu's chest grew stronger. He felt it rising into his throat, a resonance that wanted to become a sound.
+
+“What's coming?” he asked.
+
+The Engineer's jaw tightened. “I don't know. The dream is incomplete. It's a question, not an answer.” He gestured at the sphere. “It's waiting for someone to ask the right thing. Someone who can speak its language.”
+
+Sefu looked up at the sphere. Its surface was churning now, the patterns folding into new shapes, and he realized with a start that the shapes were familiar. They were the same curves and falls as the lullaby. The same rising question.
+
+“The song,” he said. “It's not a warning. It's an invitation.”
+
+The Engineer nodded slowly. “I think you're right.”
+
+Sefu took a step forward on the catwalk. The sphere's light washed over him, and the low hum in his chest began to resolve into something clearer—a melody, faint and distant, like a memory he hadn't fully formed. The lullaby. But not the one the Engineer had sung to him.
+
+A different verse.
+
+He opened his mouth, not to speak, but to sing. The notes came out quiet, uncertain, but they matched the sphere's rhythm, and the moment they did, the chamber changed. The light in the sphere steadied. The patterns on its surface smoothed into a single image.
+
+An image of a ship.
+
+It was sleek and dark, longer than the colony itself, and it was falling toward the moon with its engines dead. Not a colony ship. Not a cargo hauler. A warship. Sefu had never seen anything like it, but he knew it in his bones, the way you know a storm is coming by the smell of the air.
+
+The image held for a single heartbeat. Then it shattered into flecks of light, and the sphere went dark.
+
+The chamber fell into absolute silence. The hum in Sefu's chest was gone.
+
+“It's not coming,” the Engineer said, his voice very quiet. “It's already here.”
+
+Sefu stared at the dead sphere, his breath coming in shallow gasps. “How long?”
+
+The Engineer consulted his reader. The screen was blank now, but he looked at it as if it still held answers.
+
+“The countdown ends in nine days,” he said. “Nine days until the ship reaches the moon. Nine days until it arrives.”
+
+“And what happens then?”
+
+The Engineer looked at him, and in the darkness of the chamber, his eyes were old and full of grief.
+
+“I don't know,” he said. “But the sphere dreamed of you for a reason. And I think you're the only one who can ask it.”
+
 ---
 
 ## About This Book
