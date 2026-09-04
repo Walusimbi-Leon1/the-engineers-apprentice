@@ -358,6 +358,162 @@ The Engineer looked at him, and in the darkness of the chamber, his eyes were ol
 
 “I don't know,” he said. “But the sphere dreamed of you for a reason. And I think you're the only one who can ask it.”
 
+### Chapter 6 — The Question
+
+The catwalk swayed under Sefu's boots as he turned away from the dead sphere. The chamber felt smaller now, darker, the silence pressing in like a held breath. The Engineer had already started back toward the lift, his reader tucked under his arm, his shoulders curved under a weight Sefu hadn't noticed before.
+
+They rode up in silence. The floor numbers ticked past the levels Sefu knew, and when the lift stopped at water treatment, he expected the Engineer to step out. He didn't. He pressed the button for the machine hall, and the doors closed again.
+
+"The turbines will need to be re-tuned," the Engineer said. "If they're picking up the sphere's resonance, they'll drift off frequency. We can't afford that."
+
+"Is that what you're thinking about right now?" Sefu asked. "Turbine drift?"
+
+The Engineer looked at him. In the lift's pale light, his eyes were the color of old iron. "I'm thinking about what I can fix. A turbine is something I can fix."
+
+Sefu understood. The ship was not something the Engineer could fix. The sphere was not something he could fix. But a turbine — that was a problem with a solution, a bolt to tighten, a frequency to calibrate. There was comfort in that.
+
+The lift doors opened onto the machine hall. The light was the same as before — low and amber, the emergency lamps throwing long shadows across the floor. The turbines stood in their rows like sleeping beasts. But as Sefu stepped out, he felt it. A change. A vibration in the air that hadn't been there before.
+
+"What is it?" the Engineer asked, stopping.
+
+Sefu held up a hand. He listened. The hall was full of sound — the deep thrum of the turbines, the hiss of steam, the click of valves — but underneath it all, there was something else. A thread of melody, faint but unmistakable. It was the lullaby. But it wasn't coming from Turbine Seven.
+
+It was coming from all of them.
+
+"Can you hear it?" Sefu asked.
+
+The Engineer stood still, his head tilted. After a moment, he shook his head. "I hear the machines. Nothing more."
+
+"Listen longer," Sefu said. "It's quiet. Like water at night. Like — " He stopped. He couldn't explain it. The turbines were humming the lullaby in unison, their different notes weaving together into a harmony that filled the hall with a patient, waiting song.
+
+"They're all singing now," he said.
+
+The Engineer walked to the nearest turbine and placed his hand on its housing. He stood there for a long moment, his eyes closed. Then he opened them and looked at Sefu. "I can't hear it," he said. "But I can feel it. A vibration. Different from the normal resonance." He pulled his hand away. "The sphere is still dreaming. Even in darkness, it's dreaming. And it's using the turbines to sing."
+
+"Why?" Sefu asked.
+
+"Because you asked it a question," the Engineer said. "And it's answering."
+
+Sefu's skin prickled. He looked up at the turbines, at the rows of metal and steam that had filled his days since he was old enough to hold a wrench. He'd always thought of them as machines — beautiful, complex, alive in the way all machines are alive, but not conscious. Not aware. Now they were singing a song the Engineer had sung to him when he was small — the man who'd raised him, taught him, loved him in the only way he knew how. And they were singing it *to him*.
+
+"What question did I ask?" he said.
+
+"You asked what was coming. It showed you the ship. But that wasn't the answer. That was the *image* of the answer." The Engineer began to walk along the row of turbines, his hand trailing across their housings. "The sphere doesn't think in pictures. It thinks in questions. It's been trying to ask us something for years, and we've been too deaf to hear."
+
+"Ask us what?"
+
+The Engineer stopped at Turbine Seven. It was humming the loudest now, its melody rising above the others. "I think it's asking us to decide," he said. "What to do when the ship arrives."
+
+Sefu walked over to stand beside him. He put his palm on the turbine's housing, and the vibration ran up his arm, warm and insistent. The lullaby was clear now, as if the turbine were singing it just for him. But there was something else beneath the melody — a second layer, a question that shaped itself not in words but in feeling. *What do you want?*
+
+"I want to know what the ship wants," Sefu said.
+
+The turbine's hum changed. The melody shifted, resolving into a new pattern. Sefu felt it in his chest, a rising series of notes that felt like a question being turned over and over. And then, in the space between one breath and the next, he heard something that wasn't a sound at all. It was a memory. Not his own. A memory of cold, of distance, of a long fall through the dark. The ship. It was the ship's memory, or the sphere's memory of the ship.
+
+"What do you see?" the Engineer asked quietly.
+
+Sefu closed his eyes. He let the vibration fill him. "It's old," he said. "The ship. It's been falling for a very long time. And it's not attacking. It's — " He searched for the word. "It's calling. For help."
+
+"Help?" The Engineer's voice was sharp. "A warship, calling for help?"
+
+"I don't know if it's a warship," Sefu said. "I don't know what it is. But it's not coming to hurt us. It's coming because it has nowhere else to go."
+
+The Engineer was silent. Sefu opened his eyes and saw him standing still, his hand pressed against the turbine, his face unreadable. "The sphere showed you a warship," the Engineer said.
+
+"It showed me what I would recognize," Sefu replied. "But I was wrong. Or I wasn't seeing it right. The ship is broken. It's dying. And it's been dying for a long, long time."
+
+The Engineer removed his hand from the turbine. "How do you know that?"
+
+Sefu didn't have an answer. He only knew it the way he knew the lullaby — not as a fact, but as a feeling, a resonance that settled in his bones. "The song," he said. "The turbines aren't just singing the lullaby. They're singing a story. The story of something that fell, and kept falling, and never stopped hoping someone would hear."
+
+The Engineer looked at Sefu for a long moment. Then he nodded slowly. "Then we have a decision to make," he said. "In nine days, that ship will arrive. If it's dying, we can try to help it. But we don't know what it is, or what it carries. And the sphere is still dreaming. It may change its answer."
+
+"Or it may be waiting for me to ask the right question," Sefu said.
+
+The Engineer smiled — a tired, sad smile, but a smile nonetheless. "You've already asked one," he said. "And you heard an answer no one else could hear."
+
+---
+
+Later, they sat in the Engineer's workshop, a small room cluttered with tools and old data tapes and the half-disassembled parts of machines Sefu had never learned the names of. The Engineer brewed tea on a hot plate, the way he always did after a long shift, and the steam rose in the cold air and curled around the dangling bulb of the work lamp.
+
+"Before you came to me," the Engineer said, "before you were old enough to walk, this colony was different. We had more machines. More people. We had a ship of our own, a freighter that ran between the moon and the inner worlds."
+
+Sefu sat on a stool, cradling his cup. He'd heard fragments of this story before, but never the whole of it.
+
+"It was on its way back from a mining run when it picked up a signal," the Engineer continued. "A distress call. Old, faint, like a voice from a long way off. The captain was a good man. He changed course to answer it." He took a sip of his tea. "They found something in the dark. A ship, massive, dead in space. No lights, no power, no life signs. But it was still transmitting. The same distress call, over and over, for centuries."
+
+Sefu leaned forward. "What did they do?"
+
+"They tried to tow it," the Engineer said. "The freighter wasn't built for that kind of work, but they tried. And when they brought it close to the moon, the sphere — the sphere was already here, we'd built the colony around it — the sphere *reacted*. It began to sing. Not the lullaby. Something else. Something that made every machine on the moon shut down at once."
+
+"What happened to the ship?"
+
+The Engineer was quiet for a moment. "They let it go," he said. "They cut the tow lines and watched it drift away into the dark. The captain said the sphere was warning them. That the ship was dangerous. That it carried something we couldn't understand." He set down his cup. "But before they cut it loose, they brought one thing back. A piece of the ship's memory core. The size of a fist, black and cold, and it never gave up its data. We kept it here, in the colony, for years. And then one day it disappeared."
+
+"Disappeared?" Sefu said. "Where?"
+
+The Engineer looked at him. "I think the sphere took it," he said. "I think the sphere ate it. And I think that's why the sphere has been dreaming. It's been trying to understand what was inside that core. What the ship was carrying. What it was *for*."
+
+Sefu stared at him. "And now the ship is coming back."
+
+"Now the ship is coming back," the Engineer agreed. "Nine days. And the sphere is dreaming of you." He reached across the workbench and placed his hand over Sefu's. "I've spent forty years trying to hear what the machines are saying. You heard them in a month. You're the only one who can ask the sphere what it knows. What it fears. What it wants."
+
+Sefu looked down at their hands — the Engineer's, rough and scarred from a lifetime of work; his own, still smooth, still learning. "What if I'm not ready?" he asked.
+
+"Then we'll learn to be ready," the Engineer said. "That's what apprentices are for."
+
+---
+
+That night, Sefu lay in his bunk, listening to the distant hum of the turbines through the wall. They were still singing. The lullaby had faded into something softer, a low drone that rose and fell like the tide. He tried to sleep, but the song stayed with him, running beneath his thoughts like a current.
+
+At some point, he got up and pulled on his boots. He didn't know where he was going until his feet carried him to the machine hall. The turbines stood in their rows, silver in the dim light, and the song was louder here — not a lullaby anymore, but something deeper, something that felt like the turning of a key in a lock that had been rusted shut for a hundred years.
+
+Sefu walked to Turbine Seven and placed his hand on its housing. The vibration was warm, steady, alive.
+
+"Show me," he said.
+
+The turbine's song changed. It rose, sharp and clear, and Sefu felt the resonance fill his chest. The chamber around him seemed to fade, and in its place he saw the image again — the ship, falling through the dark, its engines cold, its hull scarred by dust and time. But now he saw it more clearly. There were letters on its hull, worn and faded, but readable.
+
+*Meridian.*
+
+And beneath the letters, a number.
+
+*Seven.*
+
+The turbine hummed, and Sefu understood. The ship wasn't the enemy. The ship was a sibling — a machine built for a purpose, lost in the dark, trying to find its way home. And the sphere wasn't warning them about it.
+
+The sphere was asking them to save it.
+
+Sefu pulled his hand away. The image faded, and he was back in the machine hall, the turbines singing around him, the air smelling of steam and ozone. He stood there for a long moment, his heart beating fast, a strange excitement building in his chest.
+
+He found the Engineer still in the workshop, hunched over a data tape, his reader glowing blue in the dim light. The old man looked up when Sefu entered, and his eyes widened slightly at whatever he saw in the boy's face.
+
+"You found something," the Engineer said.
+
+Sefu nodded. He sat down on the stool and told him everything — the name on the hull, the number, the feeling that had settled into his bones. "It's not a warship," he finished. "It's a machine. A machine that got lost. And the sphere doesn't want us to fight it. It wants us to welcome it home."
+
+The Engineer was silent for a long time. He set down the reader and removed his glasses, rubbing the bridge of his nose. "Meridian," he said. "That was the name of the ship the freighter found. I remember it from the captain's log. But the number — Seven — I don't know what that means."
+
+"Maybe it means the same thing as Turbine Seven," Sefu said. "Maybe they're connected. The turbines are numbered. The sphere is one. The ship is seven. Maybe they're all part of something bigger."
+
+The Engineer looked at him. "What are you saying?"
+
+"I'm saying the sphere — the turbines — the ship — maybe they're all pieces of the same machine. And the machine is waking up."
+
+The Engineer's face was unreadable. He put his glasses back on and looked at Sefu with an expression that was half wonder, half fear. "If that's true," he said, "then we're not just mechanics. We're caretakers. And in nine days, the missing piece of our machine is coming home."
+
+Sefu felt the weight of it settle over him. Not a weight of fear, but of purpose. He was fifteen years old, an apprentice, a boy who still had oil under his fingernails and a song in his chest. But he was also the only person who could hear the machines when they spoke.
+
+"Then we need to be ready," he said. "We need to fix the turbines. We need to open the sphere. We need to learn to ask it the right questions."
+
+The Engineer smiled — a real smile this time, warm and proud. "We'll start tomorrow," he said. "First lesson: how to listen."
+
+Sefu smiled back. Outside, through the thin walls of the workshop, the turbines sang on. And in the deep chamber beneath the colony, the sphere stirred — a single, slow pulse of light, like a heart turning over in sleep.
+
+Nine days. It was nine days.
+
+But for the first time since he'd seen the ship in the sphere's light, Sefu felt certain they would be enough.
+
 ---
 
 ## About This Book
